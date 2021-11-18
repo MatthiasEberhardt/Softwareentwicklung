@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T20:25:37.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" version="15.8.2" etag="PX2HBQOQfnlxrZKXUeED" type="github"><diagram id="Lw9Xy4WuEsfCtt3waRjO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-18T20:31:36.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="K27w72NskYflu1fejWbp" version="15.8.2" type="github">
+  <diagram id="Lw9Xy4WuEsfCtt3waRjO" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;OrderService&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="540" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="5GN8Z3yc2n7GxJOPPKSZ-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;WebApp&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ Attribute1: Type&lt;br&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-4" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="5GN8Z3yc2n7GxJOPPKSZ-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;OrderRepository&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ Attribute1: Type&lt;br&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="870" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="5GN8Z3yc2n7GxJOPPKSZ-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;CustomerService&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ Attribute1: Type&lt;br&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="5GN8Z3yc2n7GxJOPPKSZ-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;ScheduledService&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ Attribute1: Type&lt;br&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-10" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="5GN8Z3yc2n7GxJOPPKSZ-9">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;VehicleService&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ Attribute1: Type&lt;br&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5GN8Z3yc2n7GxJOPPKSZ-12" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="5GN8Z3yc2n7GxJOPPKSZ-11">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
