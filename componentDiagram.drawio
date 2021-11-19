@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T09:26:22.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="v5uPosmXc2LHGLTF1Vmf" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T09:29:06.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="A-2NcrWEA8tFQRtbbXOA" version="15.8.2" type="github">
   <diagram id="Lw9Xy4WuEsfCtt3waRjO" name="Page-1">
-    <mxGraphModel dx="2858" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,7 +366,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HzcbcBxch62gTcsLCBc-11" value="Dominik" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="370" width="300" height="200" as="geometry" />
+          <mxGeometry x="-520" y="370" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0HzcbcBxch62gTcsLCBc-12" value="Simon" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1091" y="400" width="300" height="200" as="geometry" />
@@ -408,6 +408,21 @@
         </mxCell>
         <mxCell id="0HzcbcBxch62gTcsLCBc-21" value="OrderServiceExternIF" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="685" y="445" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0HzcbcBxch62gTcsLCBc-22" value="ArtikelServiceIF" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="435" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0HzcbcBxch62gTcsLCBc-23" value="VehicleRepository" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="185" y="844" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0HzcbcBxch62gTcsLCBc-24" value="OrderRepository" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="630" y="840" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0HzcbcBxch62gTcsLCBc-25" value="CustomerRepository" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="414" y="844" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0HzcbcBxch62gTcsLCBc-26" value="ArticleRepository" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="875" y="840" width="110" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
