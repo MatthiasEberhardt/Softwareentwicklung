@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T14:15:30.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="hFu7p1pPSvAxAMk_ifT7" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T14:28:36.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="ZScUvb4K8RUOc4xZxCsO" version="15.8.2" type="github">
   <diagram id="qflauqCe76BzACfqDMx-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="37jICj31mDe6Cjt5wQ2E-3" value="LogisticSystem" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=30;" parent="1" vertex="1">
           <mxGeometry x="200" y="70" width="500" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="37jICj31mDe6Cjt5wQ2E-4" value="create Account" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="37jICj31mDe6Cjt5wQ2E-4" value="create Customer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="150" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="37jICj31mDe6Cjt5wQ2E-5" value="create Delivery" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="37jICj31mDe6Cjt5wQ2E-8" value="request Delivery Status" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="380" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="37jICj31mDe6Cjt5wQ2E-9" value="login Account" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="37jICj31mDe6Cjt5wQ2E-9" value="login Customer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="37jICj31mDe6Cjt5wQ2E-10" value="Customer&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
@@ -98,7 +98,7 @@
             <mxPoint x="104.5" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j3Sn41fsHnY4-0EYujtG-2" value="logout Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j3Sn41fsHnY4-0EYujtG-2" value="logout Customer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="85" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j3Sn41fsHnY4-0EYujtG-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="j3Sn41fsHnY4-0EYujtG-2">
